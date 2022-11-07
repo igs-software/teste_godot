@@ -14,13 +14,13 @@ Recentemente foi tomada a decisão de criarmos uma nova versão para web e deskt
 
 Você deve recriar esse jogo e é importante que ele preserve a essência e os comportamentos presentes no jogo original.
 
-Dentro do mesmo arquivo Zip que contém este documento você encontrará: 
+Dentro deste repositório você encontrará: 
 
 - Ant Bonus.mp4: Um vídeo de referência que ilustra o funcionamento do jogo original com alguns ajustes ainda pendentes;
 - Pasta assets: Todos os assets gráficos e sonoros para montagem do jogo.
 
 A entrega deve ser composta de todo o projeto Godot desenvolvido, incluindo códigos, assets e tudo mais que for necessário para rodá-lo.
 
-O código do projeto deve ser entregue em um repositório github.com, com instruções em um arquivo README.md sobre como executá-lo com sucesso.
+O código do projeto deve ser entregue em um repositório no github.com, com instruções em um arquivo README.md sobre como executá-lo com sucesso.
 
 Boa sorte!
